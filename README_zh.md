@@ -33,10 +33,6 @@
 - LlamaIndex 和 Ollama 模型（参考 LlamaIndex 文档以获取设置说明）
 - 运行 `llama2-chinese` 模型的 Ollama 后台服务
 
-## 贡献
-
-欢迎贡献！请阅读 CONTRIBUTING.md 文件以获取如何为这个项目做出贡献的指导。
-
 ## 许可证
 
 这个项目使用 MIT 许可证 - 详情请查看 LICENSE.md 文件。
