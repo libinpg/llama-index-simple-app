@@ -1,5 +1,7 @@
 # llama-index-simple-app
 
+参考了 [LlamaIndex 文档](https://docs.llamaindex.ai/en/stable/getting_started/starter_example_local.html)。
+
 这个仓库提供了一个使用 LlamaIndex 和本地模型的入门级示例。LlamaIndex 是一个强大的工具，用于使用大型语言模型构建搜索索引和查询引擎。此示例演示了如何加载文档、设置本地嵌入模型和 LLM、创建索引以及执行查询。
 
 此外，这个仓库还包括了使用自定义嵌入模型的说明。要开始使用：
