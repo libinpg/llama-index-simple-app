@@ -37,10 +37,6 @@ This setup will allow you to use a custom Chinese language model for embedding a
 - LlamaIndex and Ollama models (refer to the LlamaIndex documentation for setup instructions)
 - A backend service running the `llama2-chinese` model for Ollama
 
-## Contributing
-
-Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to this project.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
