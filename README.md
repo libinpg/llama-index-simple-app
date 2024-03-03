@@ -1,5 +1,7 @@
 # llama-index-simple-app
 
+Referenced [LlamaIndex Documentation](https://docs.llamaindex.ai/en/stable/getting_started/starter_example_local.html).
+
 [中文文档](README_zh.md)
 
 ---
